@@ -1,2 +1,2 @@
-# Test1 Project
+# ZharfPardaz Project
 Just in order to test OpenHands! (Updated)
